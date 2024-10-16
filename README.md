@@ -12,8 +12,8 @@ The correspondence between the datasets mentioned in the paper and the file name
 | Item Name | Description | Unit | 
 |-|-|-| 
 | index | Collection time (format: ISO 8601)| - |
-| 11ac_ap**_rssi | RSSI from IEEE 802.11ac AP with id:** | - |
-| 11ah_receiver_**_rssi | RSSI from IEEE 802.11ah AP with id:** | - |
+| 11ac_ap**_rssi | RSSI, Receive the beacon frame sent from the installed AP with ID:** to the receiver of the measurer. | - |
+| 11ah_receiver_**_rssi | RSSI, Receive the beacon frame sent from a measurer's 11ah AP to the installed 11ah receiver with ID:** | - |
 | x | x-coorof the measured location | m |
 | y | y-coordinate of the measured location | m |
 | z | z-coordinate of the measured location | m |
