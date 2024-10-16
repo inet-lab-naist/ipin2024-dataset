@@ -12,9 +12,9 @@ The correspondence between the datasets mentioned in the paper and the file name
 | Item Name | Description | Unit | 
 |-|-|-| 
 | index | Collection time (format: ISO 8601)| - |
-| 11ac_ap** | RSSI from IEEE 802.11ac AP with id:** | - |
-| 11ah_ap** | RSSI from IEEE 802.11ah AP with id:** | - |
-| x | x-coordinate of the measured location | m |
+| 11ac_ap**_rssi | RSSI from IEEE 802.11ac AP with id:** | - |
+| 11ah_receiver_**_rssi | RSSI from IEEE 802.11ah AP with id:** | - |
+| x | x-coorof the measured location | m |
 | y | y-coordinate of the measured location | m |
 | z | z-coordinate of the measured location | m |
 | qw | Orientation at the time of measurement (quaternion qw) | - |
